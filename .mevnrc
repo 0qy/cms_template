@@ -1,0 +1,8 @@
+{
+  "name": "cms_template",
+  "template": "Default",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
